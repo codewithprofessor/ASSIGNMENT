@@ -1,0 +1,57 @@
+﻿
+
+
+Q1: Write a program that reads n integer from user and print the output according to following pattern.
+For input 5 output should be	and for input 7 output should be
+1	2	3	4	5			1	2	3	4	5	6	7
+2	3	4	5	1			2	3	4	5	6	7	1
+3	4	5	1	2			3	4	5	6	7	1	2
+4	5	1	2	3			4	5	6	7	1	2	3
+5	4	3	2	1			5	6	7	1	2	3	4
+							6	7	1	2	3	4	5
+							7	1	2	3	4	5	6
+Q2: Write a program that reads n integers and prints the smallest number between them. If the input is 9999 it should display the smallest number that has been entered and exits form program, else it should ask for more inputs.
+Q3: Write a program that will reads an integer and print Fibonacci series up to that number.
+ Like for input 100 Fibonacci will be: 0,1,1,2,3,5,8,13,21,34,55, 89
+Q4: Write a program that will reads an integer and print Fibonacci series in reverse order from that number.
+ Like for input 100 reverse Fibonacci will be :89, 55, 34, 21,13, 8, 5, 3, 2, 1, 1, 0
+Q5: Write a program that reads the positive integer up to 6 digits from user and print the following sequence for that integer:
+1
+12
+123
+1234
+Above output is for input 1234 
+output changes for other inputs: Like for 24567 output should be as,
+2
+24
+245
+2456
+24567
+Q6: Write a program that reads the positive integer up to 6 digits from user and print the following sequence for that integer.
+   1
+    12
+  123
+1234
+for input 1234 and output changes for other inputs. Like for 24567 output should be as,
+      2
+    24
+  245
+2456
+         24567
+Q7: Write a program that reads an integer from user and prints all even numbers up to that number as well as print all odd numbers after printing the even numbers. (even and odd numbers should be on separate lines). 
+Example: for input 12 output should be as:
+Even Numbers: 0, 2, 4, 6, 8, 10, and 12.
+Odd Numbers: 1, 3, 5, 7, 9, and 11.
+Q8: Write a program that reads positive integer less than 10 and calculate the factorial of that given number.
+Q9: Write a program that reads two positive integers and prints all integers between those two integers.
+Example: for input 5 and 12 output should be as:
+The integer numbers between 5 and 12 are 6, 7, 8, 9, 10, and 11.
+Example2: for input 7 and 7 output should be as:
+There is no integer number between 7 and 7
+Q10: Assume you want to generate a table of multiple of any given number. Write a program that allows a user to enter the number and generates the table formatting it into 10 columns and 20 lines. Interaction between program should look like this (only first two lines are shown):
+Enter a number: 3
+   3	 6	 9	12	15	18	21	24	27	30
+33	36	39	42	45	48	51	54	57	60
+                                                                                              
+
+
