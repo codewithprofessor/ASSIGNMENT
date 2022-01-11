@@ -50,7 +50,7 @@ int main()
             cout<<a[i][j]<<"  ";
             cout<<endl;
         }
-        cout<<"The value of A is \n";
+        cout<<"The value of B is \n";
         for(int i=0;i<x;i++)
         {
             for(int j=0;j<y;j++)
