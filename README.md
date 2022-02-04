@@ -17,5 +17,5 @@
  *[JUST FOR MY CLASS]*
  <br /><br /><br />
  
- [ARE YOU WANT TO VIST ALL THE LACTURES](https://github.com/codewithprofessor/all_lacture)
+ [ARE YOU WANT TO VIST ALL THE LECTURES](https://github.com/codewithprofessor/all_lacture)
  
