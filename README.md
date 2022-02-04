@@ -1,7 +1,8 @@
-## ASSLAMUALIKUM
+## ASSLAMUALIKUM<br /><br />
  I am **ALI** 
- <br />
+ <br /><br />
  *codebyali*
+ <br />
  Here you can Check all the Assignments 
  
  **ASSIGNMENT 01 -- AVAILABLE**<br />
@@ -12,7 +13,7 @@
  **ASSIGNMENT 06 -- AVAILABLE**<br />
 
  
- **IF YOU NOTICE ANY ERROR IN THESE QUESTIONS THEN CONTACT ME**
+ **[IF YOU NOTICE ANY ERROR IN THESE QUESTIONS THEN CONTACT ME]**
  <br />
  *[JUST FOR MY CLASS]*
  <br />
